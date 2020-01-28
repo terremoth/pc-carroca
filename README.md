@@ -18,8 +18,9 @@ Firefox? Brave? Chromium? Nem pensar!!! Vão sugar sua RAM e seu processador at�
 Opções decentes:
 1. Midori
 2. Dillo
-3. surf
-3. Não consegue nem executar javascript direito? Vai de Netsurf
+3. Palemoon
+4. surf
+5. Não consegue nem executar javascript direito? Vai de Netsurf
 
 - Eu espero realmente que você não tenha pensado no Google Chrome como uma opçào!
 
