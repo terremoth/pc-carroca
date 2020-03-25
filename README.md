@@ -22,7 +22,7 @@ Opções decentes:
 4. surf
 5. Não consegue nem executar javascript direito? Vai de Netsurf
 
-- Eu espero realmente que você não tenha pensado no Google Chrome como uma opçào!
+*Eu espero realmente que você não tenha pensado no Google Chrome como uma opçào!*
 
 ## Calculadora
 bc
@@ -39,7 +39,8 @@ $ mpv caminho/do/video/arquivo.mp4
 ## Reprodução de áudio
 mpv
 Exemplo:
-$ mpv caminho/do/audio/arquivo.mp3
+
+```$ mpv caminho/do/audio/arquivo.mp3```
 
 ### Donwload de vídeos
 youtube-dl
@@ -78,7 +79,8 @@ Exemplo: sudo apt install bsdgames -y
 E você vai encontrá-los na pasta /usr/games 
 
 Basta por exemplo você digitar no shell:
-$ /usr/games/snake
+
+```$ /usr/games/snake```
 
 ## Leitura de Documentos
 ### PDF
@@ -104,12 +106,13 @@ Vim
 ### PPT, PPTx
 
 #### FAQ (Frequently ANSWERED Questions)
+
 1. "Linux é difícil". 
 
 R: Não, é você quem está se fazendo de. Você nem tentou ainda. Não estamos mais em 2002 e é ridiculamente fácil instalar linux na sua máquina, já há suporte para dezenas de linguas, incluindo português obviamente. Usar o terminal é facil, você só precisa saber escrever(! avá). As ferramentas citadas acima mal precisam de manual, e as que tem, como VIM, já tem tutorial a rodo em português.
 
 2. "VIM é difícil... Não consigo nem sair do editor... Como eu saio do VIM? Já tentei de tudo... 
-quit
+```quit
 exit
 ^C
 die
@@ -119,6 +122,7 @@ helpme
 ^C
 ^Cshutdown"
 ...
+```
 
 R: Era só ter pressionado ESC e digitado :q!
 
