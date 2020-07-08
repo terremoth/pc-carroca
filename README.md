@@ -65,22 +65,131 @@ Baixe o client da Steam, o Wine e o DOSBox, e abaixo, uma lista de jogos que pod
 Para nossa felicidade, o Linux está cada vez mais dando suporte a jogos.
 
 ## Games legais que teu computador carroça provavelmente vai rodar
-1. Counter Strike (vulgo 1.6)
-2. GTAs (III e Vice City)
-3. Portal 1
-4. DOOM's
-5. Age Of Empires (1 e 2)
-6. Max Payne 1
-7. Just Cause 1
-8. Need For Speed Underground (1 e 2)
-9. Vampire - The Masquerade Bloodlines
-10. Diablo 2
-11. Half Life 1
-12. Call of Duty 1
-13. The Elder Scrolls (I, II, III)
-14. Quake's (1, 2 e 3)
+- Counter Strike (vulgo 1.6)
+- GTAs (III e Vice City)
+- Portal 1
+- DOOM's
+- Age Of Empires (1 e 2)
+- Max Payne 1
+- Just Cause 1
+- Need For Speed Underground (1 e 2)
+- Vampire - The Masquerade Bloodlines
+- Diablo 1 e 2
+- Half Life 1
+- Call of Duty 1
+- The Elder Scrolls (I, II, III)
+- Quake's (1, 2 e 3)
+- Hitman: Codename 47
+- Hitman 2: Silent Assassin
+- FlatOut 1
+- Star Wars: Rebel Assault I + II
+- Star Wars Knights of the Old Republic
+- Star Wars Knights of the Old Republic II - The Sith Lords
+- Star Wars Jedi Knight: Mysteries of the Syth
+- Star Wars Jedi Knight: Dark Forces 2
+- Star Wars Jedi Knight: Jedi Academy
+- Star Wars Jedi Knight: Jedi Outcast
+- Star Wars: Dark Forces
+- Star Wars: Republic Commando
+- Star Wars Battlefront 1
+- Painkiller: Black Edition
+- Delta Force: Black Hawk Down
+- Delta Force: Land Warrior
+- Line of Sight: Vietnan
+- GUN
+- Warhammer Dawn of War
+- Sim City (1, 2, 3, 4)
+- Prince of Persia: Warrior Within
+- Prince of Persia: The Sands of Time
+- Railroad Tycoon 3
+- Rise of Nations
+- Age of Mythology
+- Age of Wonders: Shadow Magic
+- Uru - Ages Beyond Myst
+- Empire Earth
+- Aliens versus Predator 2
+- Anachronox 
+- Black & White
+- Return to Castle Wolfenstein
+- Atlantis III: The New World
+- Baldur's Gate II: Throne of Bhaal
+- Silent Hunter II
+- Hostile Waters: Antaeus Rising
+- Project Eden
+- Gothic 1
+- Dark Reign 2
+- Call to Power II
+- Bang! Gunship Elite
+- Star Trek: Voyager – Elite Force
+- Allegiance
+- Homeworld: Cataclysm
+- Crimson Skies
+- MechWarrior 4: Vengeance
+- Combat Flight Simulator 2
+- Daikatana
+- The Devil Inside
+- Crime Cities
+- Dracula: The Resurrection
+- Soldier of Fortune 1 e 2
+- Steel Beasts
+- Ground Control
+- Colin McRae Rally 2.0
+- EverQuest: The Ruins of Kunark
+- Warcraft III: Reign of Chaos
+- Dungeon Siege
+- Mafia
+- Arx Fatalis
+- Need for Speed: Hot Pursuit 2
+- Tom Clancy's Splinter Cell
+- Grand Prix 4
+- Combat Mission II: Barbarossa to Berlin
+- Deadly Dozen 2: Pacific Theater
+- Conflict: Desert Storm
+- Warlords Battlecry II
+- Army Men: RTS
+- Black & White: Creature Isle
+- Emperor: Rise of the Middle Kingdom
+- Operation Flashpoint: Cold War Crisis
+- Tom Clancy's Ghost Recon
+- Ghost Recon: Desert Siege
+- Alone in the Dark: The New Nightmare
+- Kohan: Immortal Sovereigns
+- Disciples II: Dark Prophecy
+- Z: Steel Soldiers
+- Tibia
+- Severance: Blade of Darkness
+- World War III: Black Gold
+- Red Faction
+- Microsoft Train Simulator
+- Deus Ex
+- American McGee's Alice
+- Shogun: Total War
+- Earth 2150
+- 
+- Fallout Tactics: Brotherhood of Steel
+- Ghost Master
+- Jurassic Park: Operation Genesis
+- Praetorians
+- Freedom Fighters
+- Flight Simulator 2004
+- Star Trek: Elite Force II
+- Massive Assault
+- Battlefield 1942: The Secret Weapons of WWII
+- Empires: Dawn of the Modern World
+- Broken Sword 3: The Sleeping Dragon
+- Day of Defeat
+- Command & Conquer: Generals
+- Thief: Deadly Shadows
+- The Sims 1 e 2
+- Beyond Divinity
+- The Chronicles of Riddick: Escape from Butcher Bay
+- Kohan II: Kings of War
+- The Suffering
+- TOCA Race Driver 2
+- Final Fantasy XI: Chains of Promathia
+- Joint Operations: Typhoon Rising
 
-Num geral, talvez jogos anteriores a 2005...
+Num geral, talvez jogos lançados anteriores a 2005...
 
 "Nem esses rodam!"
 
