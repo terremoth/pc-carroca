@@ -1,4 +1,4 @@
-# Old Games
+# Games para computadores carroças
 - Counter Strike (vulgo 1.6)
 - GTAs (III e Vice City)
 - Portal 1
@@ -31,6 +31,8 @@
 - Delta Force: Land Warrior
 - Line of Sight: Vietnan
 - GUN
+- System Shock 1
+- Outlaws
 - Warhammer Dawn of War
 - Sim City (1, 2, 3, 4)
 - Prince of Persia: Warrior Within
@@ -44,6 +46,9 @@
 - Aliens versus Predator 2
 - Anachronox 
 - Black & White
+- Heretic
+- Hexen 1 e 2
+- Tomb Raider 1, 2, 3
 - Return to Castle Wolfenstein
 - Atlantis III: The New World
 - Baldur's Gate II: Throne of Bhaal
