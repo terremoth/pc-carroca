@@ -13,6 +13,7 @@
 - Call of Duty 1
 - The Elder Scrolls (I, II, III)
 - Quake's (1, 2 e 3)
+- The Godfather 1
 - Hitman: Codename 47
 - Hitman 2: Silent Assassin
 - FlatOut 1
