@@ -51,6 +51,7 @@
 - Black & White
 - Heretic
 - Hexen 1 e 2
+- Fallout 1
 - Tomb Raider 1, 2, 3
 - Return to Castle Wolfenstein
 - Atlantis III: The New World
