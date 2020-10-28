@@ -1,4 +1,7 @@
 # Computador Carroça
+
+![PC da Xuxa](https://github.com/terremoth/pc-carroca/blob/master/pc%20da%20xuxa.jpg)
+
 Teu computador é uma carroça (leia: computador com requisitos baixos e limitados de hardware, ruim de utilizar)? Não tem problema, vamos torná-lo utilizável. Como apreciador da [The Suckless Universe](http://suckless.org/), e tendo um notebook carroça (Acer Aspire 5250) decidi fazer este post para ajudar as pessoas a terem um computador ruim porém 100% utilizável e funcional. 
 Antes de mais nada...
 
