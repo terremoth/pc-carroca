@@ -131,6 +131,3 @@ R: Se você puder fazer upgrades baratos nele, como adicionar mais memória, pô
 - cdr
 - ppt/pptx
 
-### other
-- (colocar aqui link para meu .vimrc sem plugins)
-- install tux games
