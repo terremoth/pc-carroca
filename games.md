@@ -9,7 +9,7 @@
 - Max Payne 1
 - Just Cause 1
 - Need For Speed Underground (1 e 2)
-- Vampire - The Masquerade Bloodlines
+- Vampire - The Masquerade Bloodlines & The Masquerade Redemption
 - Diablo 1 e 2
 - Half Life 1
 - Call of Duty 1
@@ -59,7 +59,7 @@
 - Silent Hunter II
 - Hostile Waters: Antaeus Rising
 - Project Eden
-- Gothic 1
+- Gothic 1 e 2
 - Dark Reign 2
 - Call to Power II
 - Bang! Gunship Elite
@@ -69,10 +69,11 @@
 - Crimson Skies
 - MechWarrior 4: Vengeance
 - Combat Flight Simulator 2
+- Fallout 1 e 2
 - Daikatana
 - The Devil Inside
 - Crime Cities
-- 
+- Medal of Honor: Allied Assault
 - Dracula: The Resurrection
 - Soldier of Fortune 1 e 2
 - Steel Beasts
@@ -101,9 +102,10 @@
 - Disciples II: Dark Prophecy
 - Z: Steel Soldiers
 - Tibia
+- Warcraft I e II
 - Severance: Blade of Darkness
 - World War III: Black Gold
-- Red Faction
+- Red Faction 1 e 2
 - Microsoft Train Simulator
 - Deus Ex
 - American McGee's Alice
@@ -122,7 +124,7 @@
 - Broken Sword 3: The Sleeping Dragon
 - Day of Defeat
 - Command & Conquer: Generals
-- Thief: Deadly Shadows
+- Thief 1,2 e 3
 - The Sims 1 e 2
 - Beyond Divinity
 - The Chronicles of Riddick: Escape from Butcher Bay
@@ -131,3 +133,117 @@
 - TOCA Race Driver 2
 - Final Fantasy XI: Chains of Promathia
 - Joint Operations: Typhoon Rising
+- Divine Divinity
+- Beyond Divinity
+- Grim Fandango
+- Empire Earth 1, 2, e 3
+- Ultima - todos
+- Might and Magic (qualquer um até 2005)
+- Heroes of Might and Magic (qualquer um até 2005)
+- Freespace 2
+- Anno 1602 A.D.
+- Anno 1503 A.D.
+- Anno 1701 A.D.
+- The Settlers® 2: Gold Edition
+- The Settlers® 2: 10th Anniversary
+- The Settlers® 3: Ultimate Collection
+- The Settlers® 4: Gold Edition
+- Heritage of Kings: The Settlers™
+- Caesar 1 ao 4
+- Zeus + Poseidon (Acropolis)
+- Pharaoh + Cleopatra
+- Emperor: Rise of the Middle Kingdom
+- Children of the Nile Complete
+- Tropico 1 e 2, Reloaded
+- Evil Genius
+- The Guild 1 e 2
+- Syndicate Plus
+- Syndicate Wars
+- Populous 1 e 2
+- Populous: The Beginning
+- Pirates! Gold Plus
+- Cannon Fodder 1 e 2
+- Alien Breed + Tower Assault
+- Crusader: No Regret
+- Heroes of Might and Magic 1-3
+- Dungeon Keeper 1-2-gold
+- Timequest
+- Castles 1+2
+- Stronghold HD
+- Stronghold Crusader HD
+- Lords of the Realm 1, 2, 3
+- Conquest of the New World
+- Seven Kingdoms 1 e 2
+- Capitalism 1 e 2
+- Patrician 1 e 2
+- Port Royale 1 e 2
+- Restaurant Empire
+- Celtic Kings: Rage of War
+- Tzar: The Burden of the Crown
+- Rune Classic
+- SiN Gold
+- Blood 1 e 2
+- Kingpin: Life of Crime
+- Shogo: Mobile Armor Division
+- Redneck Rampage Collection
+- Clive Barker's Undying
+- Shadow Man
+- Requiem: Avenging Angel
+- Project Eden
+- Knights and Merchants: The Peasants Rebellion
+- Broken Sword 2: Remastered
+- Runaway 1 e 2
+- Celtic Kings: Rage of War
+- Lords of the Realm 3
+- Earth 2140 Trilogy
+- Empire Earth 1 ao 3
+- Earth 2140
+- Praetorians
+- Warlords Battlecry 3
+- Secret Agent
+- Wolfenstein 3D
+- Return to Castle Wolfenstein
+- Mortal Kombat 1-4
+- Deadly Dozen Pacific Theater
+- Super Huey™ III
+- Raiden III Digital Edition
+- Dungeons & Dragons (qualquer um)
+- Al-Qadim: The Genie's Curse
+- Forgotten Realms
+- Lands of Lore™ 1 e 2
+- BloodNet
+- Monster Bash
+- Hocus Pocus
+- Wacky Wheels
+- The Hugo Trilogy
+- Cosmo's Cosmic Adventure
+- Return to Zork
+- KUNAI
+- Flight of the Amazon Queen
+- Dragonsphere
+- Lure of the Temptress
+- Teenagent
+- Jagged Alliance: Deadly Games
+- Beneath a Steel Sky
+- Tyrian 2000
+- Return of the Phantom
+- Syberia 1 e 2
+- Return of the Phantom
+- Star Trek™: Judgment Rites
+- Star Trek™: 25th Anniversary
+- Star Trek™: Starfleet Academy
+- Indiana Jones® and the Last Crusade™
+- Indiana Jones® and the Fate of Atlantis™
+- The Dig®
+- LOOM™
+- Zak McKracken and the Alien Mindbenders
+- Maniac Mansion
+- Monkey Island (qualquer um)
+- Sam & Max Hit the Road
+- Machiavelli the Prince
+- Gabriel Knight: Sins of the Fathers
+- Cyberia
+- X-Com: UFO Defense
+- Noctropolis
+- Cyclemania
+- Streets of Simcity
