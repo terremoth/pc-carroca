@@ -59,7 +59,7 @@ OBS: essa ferramenta baixa vídeos não só do youtube, mas de uma centena de si
 hexchat
 
 ## Linguagens de Programação que não irão pesar
-c, sh, awk, tex, [vlang](https://vlang.io/), [yabasic](http://www.yabasic.de/), [rebol](http://www.rebol.com/), [vimscript](https://learnvimscriptthehardway.stevelosh.com/), [wren](https://github.com/wren-lang/wren-cli/releases), [forth](http://www.softsynth.com/pforth/index.php), [red](https://www.red-lang.org/), [squirrel](http://www.squirrel-lang.org/), [newlisp](http://www.newlisp.org/), [potion](http://perl11.org/potion/index.html), [futhark](https://github.com/diku-dk/futhark), [lua](https://www.lua.org/), GnuCOBOL, CLU, gforth, Snobol, Algol, [Pure](https://agraef.github.io/pure-lang/), [Cobra](http://cobra-language.com/downloads/)
+c, sh, awk, tex, [A++](https://www.aplusplus.net/), [vlang](https://vlang.io/), [yabasic](http://www.yabasic.de/), [rebol](http://www.rebol.com/), [vimscript](https://learnvimscriptthehardway.stevelosh.com/), [wren](https://github.com/wren-lang/wren-cli/releases), [forth](http://www.softsynth.com/pforth/index.php), [red](https://www.red-lang.org/), [squirrel](http://www.squirrel-lang.org/), [newlisp](http://www.newlisp.org/), [potion](http://perl11.org/potion/index.html), [futhark](https://github.com/diku-dk/futhark), [lua](https://www.lua.org/), GnuCOBOL, CLU, gforth, Snobol, Algol, [Pure](https://agraef.github.io/pure-lang/), [Cobra](http://cobra-language.com/downloads/)
 
 ## Precisa jogar na carroça?
 Baixe o client da Steam, o Wine e o DOSBox, e abaixo, uma lista de jogos que podem rodar pela idade (não testado).
