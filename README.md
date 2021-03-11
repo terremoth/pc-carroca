@@ -5,7 +5,7 @@
 Seu computador é uma carroça? (leia-se como: computador com requisitos baixos e limitados de hardware, ruim de utilizar)? Não tem problema, vamos torná-lo utilizável. Como apreciador da [The Suckless Universe](http://suckless.org/), e tendo um notebook BEM carroça:  
 - Acer Aspire 5250 que foi me dado em 2011
 - Processador AMD C-50 de 1GHz só, dual core sem cache
-- Memória DDR3 1033mhz só
+- 4Gb + 2Gb Memória DDR3 1033mhz só
 - placa de vídeo AMD Radeon 256mb que nem video em 480p no YouTube roda direito
 - sem saída HDMI, sem USB 3 e sem Bluetooth
 - bateria viciada, só funciona na tomada
