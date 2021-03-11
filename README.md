@@ -6,6 +6,8 @@ Seu computador é uma carroça? (leia-se como: computador com requisitos baixos 
 - Acer Aspire 5250 que foi me dado em 2011
 - Processador AMD C-50 de 1GHz só, dual core sem cache
 - 4Gb + 2Gb Memória DDR3 1033mhz só
+- Webcam VGA que grava em 480p e não tem nem 3mp
+- HD era de 250gb 5400rpm só, e pus um SSD WD Green, porém sem NAND Cache, mas já melhorou um pouco o cenário
 - placa de vídeo AMD Radeon 256mb que nem video em 480p no YouTube roda direito
 - sem saída HDMI, sem USB 3 e sem Bluetooth
 - bateria viciada, só funciona na tomada
