@@ -19,7 +19,7 @@ Agora que você acredita como meu noteebook é carroça, decidi fazer este post 
 Antes de mais nada...
 
 ## Ponha um Sistema Operacional adequado
-Linux. Sem mais. "Ah mas e o Windows 7/XP aind..." - Não, não é uma opção negociável. "Ah mas eu quero usar pra jogar", então saiba que [Mais de 70% dos jogos da Steam rodam no são possíveis rodar no Linux](https://www.protondb.com/). E com essa carroça aí, você não poderá jogar lá muita coisa. Numa das seções abaixo fiz uma lista de games que sua carroça vai rodar.  
+Linux. Sem mais. "Ah mas e o Windows 7/XP aind..." - Não, não é uma opção negociável. "Ah mas eu quero usar pra jogar", então saiba que [Mais de 70% dos jogos da Steam rodam são possíveis de rodar no Linux](https://www.protondb.com/). E com essa carroça aí, você não poderá jogar lá muita coisa. Numa das seções abaixo fiz uma lista de games que sua carroça vai rodar.  
 
 Você vai ter algumas alternativas de Linux boas. O que primeiro vamos ter que analisar é o quão carroça é seu computador. O que veremos abaixo de softwares e ferramentas farão bastante uso da linha de comando (terminal). E nem faça cara de desânimo, largue a preguiça, arregace as mangas e vamos melhorar esse cenário aí.  
 
