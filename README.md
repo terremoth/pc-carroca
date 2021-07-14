@@ -48,10 +48,10 @@ Opções decentes:
 bc, xcalc, apcalc, qalc
 
 ## Ferramentas de desenvolvimento
-vim. Sem mais! 
+NeoVim e/ou Geany 
 
 ## Text editors
-vim, nano, leafpad (ui based)
+NeoVim, nano, leafpad (ui based)
 
 ## Reprodução de vídeos
 mpv media player 
@@ -101,7 +101,7 @@ Basta por exemplo você digitar no shell:
 zathura, xpdf, qpdfview
 
 ### Abrir .txt
-Vim, Nano
+NeoVim, Nano
 
 #### FAQ (Frequently ANSWERED Questions)
 
