@@ -69,6 +69,7 @@ Exemplo:
 
 ## Edição de vídeos (sim, é possível!)
 > direto pela linha de comando!  
+   
 use o software ffmpeg
  
 
@@ -103,14 +104,18 @@ Num geral, talvez jogos lançados anteriores a 2006...
 
 "Nem esses rodam!"
 
-Se contente então baixando os jogos de terminal (jogos pra jogar na linha de comando): pacote "bsdgames" e/ou "bsdgames-nonfree"
+Se contente então baixando os jogos de terminal (jogos pra jogar na linha de comando): pacote "bsdgames" e "bsdgames-nonfree"
 Exemplo:  
+
 ```sudo apt install bsdgames -y```  
+
 E você vai encontrá-los no diretório ```/usr/games``` 
 
 Basta por exemplo você digitar no shell:
 
-```$ /usr/games/snake```
+```$ /usr/games/snake```  
+
+Tem mais de 30 jogos de linha de comando para você se divertir, todos ASCII-based (desenhados com texto/caracteres)
 
 ## Leitura de Documentos
 
