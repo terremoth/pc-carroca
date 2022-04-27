@@ -80,7 +80,7 @@ Exemplo:
 
 ```$ mpv caminho/do/audio/arquivo.mp3```
 
-### Donwload de vídeos
+### Download de vídeos
 youtube-dl   
 
 OBS: essa ferramenta baixa vídeos não só do youtube, mas de uma centena de sites (incluindo sites adultos).
