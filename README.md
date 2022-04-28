@@ -70,7 +70,7 @@ Exemplo:
 ## Edição de vídeos (sim, é possível!)
 > direto pela linha de comando!  
    
-use o software ffmpeg
+use o software `ffmpeg`
  
 
 ## Reprodução de áudio
@@ -86,7 +86,7 @@ youtube-dl
 OBS: essa ferramenta baixa vídeos não só do youtube, mas de uma centena de sites (incluindo sites adultos).
 
 ## Chats
-hexchat
+hexchat, irssi, weechat
 
 ## Linguagens de Programação pequenas, minimalistas que usam pouca RAM e pouco espaço em disco:
 C puro, ShellScript (nativo nos linux), awk (nativo nos linux), tex, [A++](https://www.aplusplus.net/), [vlang](https://vlang.io/), [yabasic](http://www.yabasic.de/), [rebol](http://www.rebol.com/), [vimscript](https://learnvimscriptthehardway.stevelosh.com/) (nativo depois de instalar vim ou neovim), [wren](https://github.com/wren-lang/wren-cli/releases), [forth](http://www.softsynth.com/pforth/index.php), [red](https://www.red-lang.org/), [squirrel](http://www.squirrel-lang.org/), [newlisp](http://www.newlisp.org/), [potion](http://perl11.org/potion/index.html), [futhark](https://github.com/diku-dk/futhark), [lua](https://www.lua.org/), GnuCOBOL, CLU, gforth, Snobol, Algol, [Pure](https://agraef.github.io/pure-lang/), [Cobra](http://cobra-language.com/downloads/)
@@ -117,6 +117,8 @@ Basta por exemplo você digitar no shell:
 
 Tem mais de 30 jogos de linha de comando para você se divertir, todos ASCII-based (desenhados com texto/caracteres)
 
+Outra opção é jogar [NetHack](https://nethack.org), podendo ser local ou on-line, por exemplo no servidor [hardfought](https://hardfought.org) ou [alt.org](https://alt.org/nethack/).
+
 ## Leitura de Documentos
 
 ### PDF
@@ -124,6 +126,7 @@ zathura, xpdf, qpdfview
 
 ### Abrir .txt
 NeoVim, Nano
+
 
 #### FAQ (Frequently ANSWERED Questions)
 
