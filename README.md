@@ -170,4 +170,9 @@ Para você aprender vim ou neovim, basta digitar ``vimtutor pt`` no terminal.
 - djvu/mobi
 - cdr
 - ppt/pptx
+ 
+### upgrades
+- hardware
+- arch linux wiki performance tunning
+- streaming gaming platforms
 
