@@ -4,7 +4,7 @@
 
 Seu computador é uma carroça? (leia-se como: computador com requisitos baixos e limitados de hardware, ruim de utilizar)? Não tem problema, vamos torná-lo utilizável. Como apreciador da [The Suckless Universe](http://suckless.org/), e tendo um notebook BEM carroça:  
 - Acer Aspire 5250 que foi me dado em 2011
-- Processador AMD C-50 de 1GHz só, dual core sem cache
+- Processador AMD C-50 de 1GHz só, dual core com míseros 1mb de cache
 - 4Gb + 4Gb Memória DDR3 1033mhz só, e ainda por cima single channel
 - Webcam VGA que grava em 480p e não tem nem 3mp
 - HD era de 250gb 5400rpm só, e pus um SSD WD Green, porém sem NAND Cache, infelizmente é SATA 2, mas já melhorou um pouco o cenário. (sempre quando for fazer upgrade de disco, procure por SSD's que tenham NAND Cache, por exemplo os da Crucial MX500 ou Samsung EVO)
@@ -148,7 +148,7 @@ helpme
 ...
 ```
 
-R: Era só ter pressionado ESC e digitado :q!
+R: Era só ter pressionado ESC e digitado :q!  
 Para você aprender vim ou neovim, basta digitar ``vimtutor pt`` no terminal.
 
 3. "Vale o esforço de dar vida novamente a este computador?" 
