@@ -12,6 +12,7 @@ Seu computador é uma carroça? (leia-se como: computador com requisitos baixos 
 - sem saída HDMI, sem USB 3 e sem Bluetooth
 - bateria viciada, só funciona na tomada
 - layout de teclado americano
+- WiFi só de 2.4ghz
 
 posso te garantir que com esses requisitos bem desgraçados, eu rodo Laravel (PHP) com MySQL, NeoVim, com mais 2 abas no terminal abertas e umas 2 a 3 abas no Brave Browser abertas. "Praticamente Tirando leite de pedra". E funciona, roda. Às vezes é lento, mas roda!
 
