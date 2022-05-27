@@ -34,9 +34,13 @@ Como sistemas operacionals, que já testei no meu notebook carroça, recomendo e
 
 Se não souber qual distribuição acima escolher, escolha [Lubuntu](https://lubuntu.me/).  
 
-Dica: Se você for um usuário antigo, que tem mais conhecimento em linux, tente instalar o sistema de arquivos XFS ou F2FS que são [drasticamente mais rápidos que Ext4 e BTRFS](https://www.phoronix.com/scan.php?page=article&item=linux-58-filesystems&num=1) e [link 2](https://www.phoronix.com/scan.php?page=article&item=linux-50-filesystems&num=1). Assim a velocidade de leitura e escrita no seu HD/SSD será ainda mais rápida.
-
 É sério, com essas distros acima, você consegue ressuscitar praticamente qualquer carroça velha.
+
+### Notas para instalação nos Linux
+
+Se você for um usuário antigo, que tem mais conhecimento em linux, tente instalar o sistema de arquivos XFS ou F2FS que são [drasticamente mais rápidos que Ext4 e BTRFS](https://www.phoronix.com/scan.php?page=article&item=linux-58-filesystems&num=1) e [link 2](https://www.phoronix.com/scan.php?page=article&item=linux-50-filesystems&num=1). Assim a velocidade de leitura e escrita no seu HD/SSD será ainda mais rápida.  
+
+Na instalação do seu Linux, muitas vezes irá aparecer se você quer bootar ele usando softwares proprietários ou livres (livres ou "abertos" dependendo da nomenclatura que eles escolherem usar). Escolha os livres, simplesmente pelo fato de que como sua carroça é antiga, na maioria das vezes os firmwares proprietários não são atualizados há anos, diferente dos firmwares open source e/ou livres.
 
 ## Navegador Web, qual usar na carroça?
 Firefox? Chrome? Icecat? Nem pensar!!! Vão sugar sua RAM e seu processador até travar todo seu sistema que já é podre.
