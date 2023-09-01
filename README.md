@@ -59,10 +59,13 @@ Opções decentes (menos piores):
 bc, xcalc, apcalc, qalc
 
 ## Ferramentas de desenvolvimento
-NeoVim e/ou Geany 
+Via Terminal: [NeoVim](https://github.com/neovim/neovim), [Helix](https://github.com/helix-editor/helix)   
+Via GUI: [VSCodium](https://github.com/VSCodium/vscodium) (Clne do VSCode sem ser bloated e totalmente livre),  [Geany IDE](https://github.com/geany/geany) (provavelmente a IDE mais leve que existe),  [Lapce](https://github.com/lapce/lapce) (Rust-based programming text-editor)
 
-## Text editors
-NeoVim, nano, leafpad (ui based)
+
+## Editores de texto simples (do tipo blocos de notas)
+Via GUI: [LeafPad](https://github.com/tarot231/leafpad), [FeatherPad](https://github.com/tsujan/FeatherPad)  
+Via Terminal: [nano](https://github.com/madnight/nano) (`sudo apt install nano`)
 
 ## Reprodução de vídeos
 mpv media player  
@@ -168,6 +171,21 @@ Para você aprender vim ou neovim, basta digitar ``vimtutor pt`` no terminal.
 
 > R: Se você puder fazer upgrades baratos nele, como adicionar mais memória, pôr um SSD no lugar do HD, sua vida já melhora um bocado. Considere procurar por peças na OLX, no Marketplace do Facebook e no mercado livre, é fácil de encontrar peças baratas lá.
 
+## AVANÇADO
+
+ALERTA!!! Se você fizer isso abaixo, seu computador irá ficar vulnerável a alguns tipos de falhas de segurança. Em detrimento, acelerará o tempo de boot e um pouco a velocidade do computador num geral. É um tradeoff que você pode escolher correr. Não me responsabilizo caso seu linux seja hackeado ou invadido no futuro. Em computadores que não vão ficar conectados na internet com frequência não tem problema ter essa linha.
+
+Você consegue acelerar um pouco seu computador carroça, se adicionar essa linha na variável `GRUB_CMDLINE_LINUX` no arquivo `/etc/default/grub`:  
+
+`noibrs noibpb nopti nospectre_v2 nospectre_v1 l1tf=off nospec_store_bypass_disable no_stf_barrier mds=off mitigations=off`  
+
+Ficando assim: `GRUB_CMDLINE_LINUX="noibrs noibpb nopti nospectre_v2 nospectre_v1 l1tf=off nospec_store_bypass_disable no_stf_barrier mds=off mitigations=off"`  
+
+Agora salve o arquivo, e rode o comando:  
+```sh
+$ sudo update-grub2
+```
+para ele re-gerar os arquivos de boot.
 
 ## TO-DO
 ### Leitores/visualizadores de documentos
