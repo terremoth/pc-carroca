@@ -134,7 +134,7 @@ Outra opção é jogar [NetHack](https://nethack.org), podendo ser local ou on-l
 zathura, xpdf, qpdfview
 
 ### Abrir .txt
-NeoVim, Nano
+LeafPad, FeatherPad, Nano
 
 
 #### FAQ (Frequently ANSWERED Questions)
