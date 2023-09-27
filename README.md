@@ -30,7 +30,8 @@ Como sistemas operacionals, que já testei no meu notebook carroça, recomendo e
 3. [SliTaz](https://www.slitaz.org/) - distro Linux extremamente pequena, ressuscitadora de máquina velha
 4. [TinyCore](http://tinycorelinux.net/) - distro muito minimalista
 5. [Nano Linux](https://sourceforge.net/p/nanolinux/wiki/Home/) (provavelmente a menor distro de todas em tamanho de disco e uso de memória, ela não deve pesar mais que 25mb);
-6. Gosta de Arch Linux e se vira bem com linux e linha de comando? Vai de [Artix Linux](https://artixlinux.org/) que é o (Arch Linux [sem systemd](https://nosystemd.org/)), use st como terminal, dash ou mksh como shell, dwm + dmenu como window manager e vc terá um ambiente extremamente suckless;
+6. Quer ser um pouco mais "hardcore" e testar distros REALMENTE minimalistas? Existe a distro [Void](https://voidlinux.org/) e a [Alpine](https://www.alpinelinux.org/) (que é ainda mais minimalista usável que void)
+7. Gosta de Arch Linux e se vira bem com linux e linha de comando? Vai de [Artix Linux](https://artixlinux.org/) que é o (Arch Linux [sem systemd](https://nosystemd.org/)), use st como terminal, dash ou mksh como shell, dwm + dmenu como window manager e vc terá um ambiente extremamente suckless;
 
 Se não souber qual distribuição acima escolher, escolha [Lubuntu](https://lubuntu.me/).  
 
@@ -97,7 +98,7 @@ OBS: essa ferramenta baixa vídeos não só do youtube, mas de uma centena de si
 hexchat, irssi, weechat
 
 ## Linguagens de Programação pequenas, minimalistas que usam pouca RAM e pouco espaço em disco:
-C puro, ShellScript (nativo nos linux), awk (nativo nos linux), tex, [A++](https://www.aplusplus.net/), [vlang](https://vlang.io/), [yabasic](http://www.yabasic.de/), [rebol](http://www.rebol.com/), [vimscript](https://learnvimscriptthehardway.stevelosh.com/) (nativo depois de instalar vim ou neovim), [wren](https://github.com/wren-lang/wren-cli/releases), [forth](http://www.softsynth.com/pforth/index.php), [red](https://www.red-lang.org/), [squirrel](http://www.squirrel-lang.org/), [newlisp](http://www.newlisp.org/), [potion](http://perl11.org/potion/index.html), [futhark](https://github.com/diku-dk/futhark), [lua](https://www.lua.org/), GnuCOBOL, CLU, gforth, Snobol, Algol, [Pure](https://agraef.github.io/pure-lang/), [Cobra](http://cobra-language.com/downloads/)
+C puro, ShellScript (nativo nos linux), awk (nativo nos linux), tex, [A++](https://www.aplusplus.net/), [vlang](https://vlang.io/), [yabasic](http://www.yabasic.de/), [rebol](http://www.rebol.com/), [vimscript](https://learnvimscriptthehardway.stevelosh.com/) (nativo depois de instalar vim ou neovim), [wren](https://github.com/wren-lang/wren-cli/releases), [forth](http://www.softsynth.com/pforth/index.php), [red](https://www.red-lang.org/), [squirrel](http://www.squirrel-lang.org/), [newlisp](http://www.newlisp.org/), [potion](http://perl11.org/potion/index.html), [futhark](https://github.com/diku-dk/futhark), [lua](https://www.lua.org/), GnuCOBOL, CLU, gforth, Snobol, Algol, [Pure](https://agraef.github.io/pure-lang/), [Cobra](http://cobra-language.com/downloads/) e [Clean](https://clean-lang.org/)
 
 Linguagens como Python, Ruby, Java, C#, Pascal, Node (JS) são todas pesadas em questão de espaço e uso de memória (runtime e REPL). Eu pesquisei listas de pacotes e fiz muitos testes para trazer essas informações para vocês mastigada.
 
