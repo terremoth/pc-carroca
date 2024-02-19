@@ -8,7 +8,7 @@ Seu computador é uma carroça? (leia-se como: computador com requisitos baixos 
 - 4Gb + 4Gb Memória DDR3 1033mhz só, e ainda por cima single channel
 - Webcam VGA que grava em 480p e não tem nem 3mp
 - HD era de 250gb 5400rpm só, e pus um SSD WD Green, porém sem NAND Cache, infelizmente é SATA 2, mas já melhorou um pouco o cenário. (sempre quando for fazer upgrade de disco, procure por SSD's que tenham NAND Cache, por exemplo os da Crucial MX500 ou Samsung EVO)
-- placa de vídeo AMD Radeon 5250 (512mb memoria/1ghz velocidade de memória/280mhz velocidade do nucleo), que nem video em 480p no YouTube roda direito
+- placa de vídeo AMD Radeon 6250 (512mb memoria/1ghz velocidade de memória/280mhz velocidade do nucleo), que nem video em 480p no YouTube roda direito
 - sem saída HDMI, sem USB 3 e sem Bluetooth
 - bateria viciada, só funciona na tomada
 - layout de teclado americano
