@@ -109,11 +109,13 @@ linux-6.15.4.tar.xz  linux-image-6.15.4-dbg_6.15.4-3_amd64.deb  linux-libc-dev_6
 ```
 O que é cada um:
 
-`linux-image-6.15.4_6.15.4-3_amd64.deb` -	Kernel e módulos (principal e o que instalaremos)
-`linux-headers-6.15.4_6.15.4-3_amd64.deb` - Headers (úteis se for compilar drivers de terceiros)
-`linux-libc-dev_6.15.4-3_amd64.deb` - Headers da libc para compilar coisas
-`linux-image-6.15.4-dbg_6.15.4-3_amd64.deb` - Kernel com símbolos de depuração (opcional e grande se vc quiser fazer debugging)
-`linux-upstream_6.15.4-3_amd64.changes` -	Log da compilação (metadado do build, ignora)
+`linux-6.15.4` - É o diretório onde você estava  
+`linux-6.15.4.tar.xz` - O arquivo que você tinha descompactado que virou a pasta onde você estava  
+`linux-image-6.15.4_6.15.4-3_amd64.deb` -	Kernel e módulos (principal e o que instalaremos)  
+`linux-headers-6.15.4_6.15.4-3_amd64.deb` - Headers (úteis se for compilar drivers de terceiros)  
+`linux-libc-dev_6.15.4-3_amd64.deb` - Headers da libc para compilar coisas  
+`linux-image-6.15.4-dbg_6.15.4-3_amd64.deb` - Kernel com símbolos de depuração (opcional e grande se vc quiser fazer debugging)  
+`linux-upstream_6.15.4-3_amd64.changes` -	Log da compilação (metadado do build, ignora)  
 `linux-upstream_6.15.4-3_amd64.buildinfo` - Informações do ambiente de build (ignora)  
 
 Agora o principal: `linux-image-6.15.4_6.15.4-3_amd64.deb`, renomeei para `linux-image-6.15.4-3_amd64.deb`, para não repetir 2 vezes a versão no nome do arquivo.  
@@ -138,8 +140,8 @@ Quando tiver reiniciando, fique pressionando `shift` para ele entrar na tela ini
 Na tela do grub vá em "Advanced options" e mude para o Kernel 6.15.4 na lista (ou para a versão do kernel que você acabou de instalar) e dê enter. Pronto.
 
 ### Caso der algum erro
-e não inicializar por algum motivo, anote ou tire foto o erro para pesquisar depois. Reinicie seu computador ligando e desligando pelo botão de power dele mesmo, 
-na tela do grub vá em "Advanced options" de novo e volte pro kernel que tava antes que funcionava, e tente descobrir o motivo e conserte, e refaça as etapas acima corrigindo onde necessário.  
+e não inicializar por algum motivo, anote ou tire foto do erro para pesquisar depois. Reinicie seu computador ligando e desligando pelo botão de power dele mesmo, 
+e na tela do grub de novo, vá em "Advanced options" e volte pro kernel que tava antes que funcionava, tente descobrir o motivo e conserte, e então refaça as etapas acima corrigindo onde necessário.  
 
 **Se tudo der certo** e tenha iniciado corretamente, abra o terminal e digite:
 
@@ -149,5 +151,3 @@ uname -r
 
 E você verá algo como `6.15.4` ou a versão que você escolheu. Isso significa que deu tudo certo e está funcionando conforme esperado!  
 Parabéns, você compilou e pôs em produção o kernel do Linux, ou digamos, o Linux propriamente dito! Fim.
-
-
